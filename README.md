@@ -1,0 +1,2 @@
+# Revenue-Insight-Analytics
+This project is designed to deliver actionable insights into our sales and support calls. By analyzing call volume, representative effectiveness, and customer feedback, the dashboard helps us identify top performers, address customer pain points, and drive revenue growth.
